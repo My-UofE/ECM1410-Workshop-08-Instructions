@@ -244,7 +244,7 @@ java -cp ./build/workshop8_v1_0.jar:test TestApp
 We can also add additional resources e.g. the source code and documentation into the `jar` file e.g. the following will add the contents of directories `src` and (currently empty) `doc`  to the `jar`:
 
 ```
-java -uvf ./build/workshop8_v1_0.jar src doc
+jar -uvf ./build/workshop8_v1_0.jar src doc
 ```
 
 Check the updated contents using:
