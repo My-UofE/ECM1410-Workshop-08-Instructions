@@ -7,6 +7,8 @@
 
 We will be implementing the following interface and classes as shown in the following UML diagram:
 
+<img src="./movableInterface.png"> </img>
+
 Some starter code files have been provided. 
 
 Start by looking in file `Movable.java`. This contains the `Movaeble` interface. The first abstract method (as specified in the diagram) is already written.
