@@ -67,6 +67,8 @@ The starter code for the class can be found in `MovableCircle.java`. Complete th
 
 Again you do not need to add getters or setters for the private attributes, but need to override the `toString()` method, to print out the detail information in the following format: `MovableCircle[center=MovablePoint[....],radius=...]`
 
+Note that to access the `x` `y` attributes for the `MovablePoint` you can either add getters so that the `MovableCircle` can read this information from its `center` attribute, or build the `MovableCircle` `toString()` using the `MoveablePoint` public `toString()` method to get the details. 
+
 Check that your class compiles using:
 
 ```
