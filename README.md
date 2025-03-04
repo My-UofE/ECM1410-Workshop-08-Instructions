@@ -247,3 +247,4 @@ Check the updated contents using:
 jar -tf ./build/workshop8_v1_0.jar
 ```
 
+This workshop is shorter than usual so that you can make a start on your pair programming coursework.
