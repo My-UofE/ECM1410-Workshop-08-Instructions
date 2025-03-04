@@ -3,6 +3,8 @@
 
 - The average duration to conclude this workshop is two hours. If you are not able to finish all the exercises in the workshop, you need spend more time on them. Make sure you always finish them without problems before the next workshop.
 
+**CORRECTION!!! Please remove the lines `package workshop8;` from the code files provided**
+
 ### `Movable` interface
 
 We will be implementing the following interface and classes as shown in the following UML diagram:
